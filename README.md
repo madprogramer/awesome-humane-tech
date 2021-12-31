@@ -254,6 +254,8 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/argosopentech/argos-translate) - Open source neural machine translation.
 - [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) - Front-end for Google Translate that doesn't track you and works without JavaScript.
 - [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) - Simple front-end for SimplyTranslate, a facade to multiple search engines.
+- [Nekocap](https://nekocap.com/)[<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nopol10/nekocap) - Browser extension for creating & uploading community captions for YouTube, niconico and other video sharing sites.
+- [LiveTL](https://livetl.app/)[<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/LiveTL/LiveTL) - Get live translations for YouTube streams, crowdsourced from multilingual viewers!
 
 ## Freedom
 
@@ -273,6 +275,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
 - [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
 - [Hauk](https://github.com/bilde2910/Hauk) - A fully open source, self-hosted location sharing service.
+- [Location Guard](https://github.com/chatziko/location-guard) - Browser extension that allows to protect your location while using location-aware websites, by adding controlled noise to it.
 
 ## Voice Assistants
 
